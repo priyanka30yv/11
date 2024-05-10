@@ -1,0 +1,19 @@
+using System;
+namespace Greysoft
+{
+class DoWhile{
+public static void Main(string[]args)
+{
+int arr1[]=new arr1[10];
+do{
+Console.WriteLine("enter a 10 elements")
+arr1[i]=Console.WriteLine(Console.WriteRead());
+int sum=sum+arr[i];
+
+i++;
+}
+while(i<a.length);
+Console.WriteLine(sum);
+}
+}
+}
